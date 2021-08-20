@@ -113,11 +113,11 @@ transition-delay: 1s;
 .google:hover {
     background: skyblue;
 }
-@media  screen and (min-width: 1440px) {
+@media  screen and (min-width: 1200px) {
     .container {
   height: 85%;
-  margin-top: 5%;
-  margin-bottom: auto;
+  margin-top: 0%;
+  margin-bottom: 0;
   margin-left: 15%;
   margin-right: 15%;
   background: white;
@@ -185,14 +185,14 @@ h2 {
 }
 @media  screen and (min-width: 768px) {
     .container {
-  height: 80%;
+  height: 85%;
   margin-top: 5%;
   margin-bottom: auto;
   margin-left: 15%;
   margin-right: 15%;
   background: white;
   padding: 5%;
-  padding-top: 5%;
+  padding-top: 0%;
 }
   h1 {
   text-align: center;
